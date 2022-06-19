@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <div><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/></div>
   <div><img src="https://komarev.com/ghpvc/?username=cleoledev&style=flat-square&label=Thanks+for+Visiting"/></div>
-  <h1>Hi, I'm Cleo. 👋</h1>
+  <h1>Hi, I'm Cleo, a Frontend Developer 👋</h1>
   <p>A language geek who encountered with programming language... and then started her life of coding.</p>
 </div>
 
