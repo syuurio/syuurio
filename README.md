@@ -35,7 +35,7 @@
 
 ## :rocket: What I'm up to do
 - Renewal my personal website with **React**
-- Explore the backend skill to become a **fullstack engineer**
+- Explore the backend skill to become a **full-stack engineer**
 - Earn a **Computer Science** degree
 
 ## :zap: Languages and Tools
