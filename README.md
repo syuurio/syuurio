@@ -34,7 +34,7 @@
 ```
 
 ## :rocket: What I'm up to do
-- Renewal my portfolio website with **React**
+- Renewal my personal website with **React**
 - Explore the backend skill to become a fullstack engineer
 - Earn a Computer Science degree
 
