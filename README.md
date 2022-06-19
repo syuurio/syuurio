@@ -35,8 +35,8 @@
 
 ## :rocket: What I'm up to do
 - Renewal my personal website with **React**
-- Explore the backend skill to become a fullstack engineer
-- Earn a Computer Science degree
+- Explore the backend skill to become a **fullstack engineer**
+- Earn a **Computer Science** degree
 
 ## :zap: Languages and Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30"/>&nbsp;
