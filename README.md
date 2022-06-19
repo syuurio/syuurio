@@ -19,7 +19,7 @@
 
 ## :woman_technologist: About Me
 
-:wave: I'm Cleo who makes coding an essential part of my life.  
+:wave: I'm Cleo who makes coding an essential part of life.
 
 - :computer: Currently working as a Frontend Developer in Taiwan.
 - :mag: Seeking to explore the field not only **FRONTEND** but everything about **WEB**.
