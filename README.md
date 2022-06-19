@@ -21,7 +21,7 @@
 
 :wave: I'm Cleo who makes coding an essential part of my life.  
 
-- :computer: Currently working as Frontend Developer in Taiwan.
+- :computer: Currently working as a Frontend Developer in Taiwan.
 - :mag: Seeking to explore the field not only **FRONTEND** but everything about **WEB**.
 - :hearts: Love thinking and solving problems through coding.
   
@@ -33,4 +33,26 @@
 💕 Be thoughtful with people surrounding you
 ```
 
-  
+## :rocket: What I'm up to do
+- Renewal my portfolio website with **React**
+- Explore the backend skill to become a fullstack engineer
+- Earn a Computer Science degree
+
+## :zap: Languages and Tools
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://vitejs.dev/logo.svg" width="30" height="30"/></code>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" width="30" height="30"/>&nbsp;
+
+## My Stats
+![](https://github-readme-stats.vercel.app/api?username=cleoledev&show_icons=true&theme=rose_pine)  
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=cleoledev&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
