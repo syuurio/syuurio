@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
-  <h1>Hi, I'm Cleo. 👋
+  <div><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/></div>
+  <div><img src="https://komarev.com/ghpvc/?username=cleoledev&style=flat-square&label=Thanks+for+Visiting"/></div>
+  <h1>Hi, I'm Cleo. 👋</h1>
+  <p>A language geek who encounter with programing language... and then started her life of coding.</p>
 </div>
 
 <div id="badges" align="center">
@@ -14,3 +16,21 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+## :woman_technologist: About Me
+
+:wave: I'm Cleo who makes coding an essential part of my life.  
+
+- :computer: Currently working as Frontend Developer in Taiwan.
+- :mag: Seeking to explore the field not only **FRONTEND** but everything about **WEB**.
+- :hearts: Love thinking and solving problems through coding.
+  
+## :pencil2: My Motto
+```
+🌟 Stay curious and never stop learning
+🔥 Be positive and ambitious of what you'are up to do
+🤝 Take from someone, then give to someone else
+💕 Be thoughtful with people surrounding you
+```
+
+  
