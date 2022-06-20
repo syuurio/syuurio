@@ -28,7 +28,7 @@
 ## :pencil2: My Motto
 ```
 🌟 Stay curious and never stop learning
-🔥 Be positive and ambitious of what you'are up to do
+🔥 Be ambitious of what you're up to do
 🤝 Take from someone, then give to someone else
 💕 Be thoughtful with people surrounding you
 ```
