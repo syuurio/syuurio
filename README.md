@@ -37,6 +37,7 @@
 - Renewal my personal website with **React**
 - Explore the backend skill to become a **full-stack engineer**
 - Contribute to open source project :sparkling_heart:
+- Start writing technical blogs, ideally in english
 - Earn a **Computer Science** degree
 
 ## :zap: Languages and Tools
