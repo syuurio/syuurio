@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <div><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/></div>
   <div><img src="https://komarev.com/ghpvc/?username=cleoledev&style=flat-square&label=Thanks+for+Visiting"/></div>
-  <h1>Hi, I'm Cleo, a detail-oriented Frontend Engineer 👋</h1>
+  <h1>Hi, I’m Cleo, a detail-oriented Frontend Engineer 👋</h1>
   <p>A language geek who encountered programming language... and then started her life of coding.</p>
 </div>
 
@@ -25,12 +25,12 @@
 ## :pencil2: My Motto
 ```
 🌟 Stay curious and never stop learning
-🔥 Be ambitious of what you're up to do
+🔥 Be ambitious of what you are up to do
 🤝 Take from someone, then give to someone else
 💕 Be thoughtful with people surrounding you
 ```
 
-## :rocket: What I'm up to do
+## :rocket: What I’m up to do
 - Renewal my personal website
 - Explore the backend skill to become a **full-stack engineer**
 - Contribute to open source project :sparkling_heart:
