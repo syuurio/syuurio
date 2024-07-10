@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <div><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/></div>
   <div><img src="https://komarev.com/ghpvc/?username=cleoledev&style=flat-square&label=Thanks+for+Visiting"/></div>
-  <h1>Hi, I'm Cleo, a detail-oriented Web Engineer 👋</h1>
+  <h1>Hi, I'm Cleo, a detail-oriented Frontend Engineer 👋</h1>
   <p>A language geek who encountered programming language... and then started her life of coding.</p>
 </div>
 
@@ -18,7 +18,7 @@
 
 :wave: I’m Cleo, and coding is an essential part of my life.
 
-- :computer: Currently working as a Web Engineer in Taiwan and seeking international remote opportunities.
+- :computer: Currently working as a Frontend Engineer in Taiwan and seeking international remote opportunities.
 - :mag: Eager to explore new fields in **WEB** development.
 - :hearts: Passionate about problem-solving through coding.
   
