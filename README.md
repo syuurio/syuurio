@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <div><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/></div>
   <div><img src="https://komarev.com/ghpvc/?username=cleoledev&style=flat-square&label=Thanks+for+Visiting"/></div>
-  <h1>Hi, I'm Cleo, a Frontend Developer 👋</h1>
+  <h1>Hi, I'm Cleo, a detail-oriented Web Engineer 👋</h1>
   <p>A language geek who encountered programming language... and then started her life of coding.</p>
 </div>
 
@@ -19,11 +19,11 @@
 
 ## :woman_technologist: About Me
 
-:wave: I'm Cleo who makes coding an essential part of life.
+:wave: I’m Cleo, and coding is an essential part of my life.
 
-- :computer: Currently working as a Frontend Developer in Taiwan.
-- :mag: Seeking to explore the field not only **FRONTEND** but everything about **WEB**.
-- :hearts: Love thinking and solving problems through coding.
+- :computer: Currently working as a Web Engineer in Taiwan and seeking international remote opportunities.
+- :mag: Eager to explore new fields in **WEB** development.
+- :hearts: Passionate about problem-solving through coding.
   
 ## :pencil2: My Motto
 ```
@@ -34,7 +34,7 @@
 ```
 
 ## :rocket: What I'm up to do
-- Renewal my personal website with **React**
+- Renewal my personal website
 - Explore the backend skill to become a **full-stack engineer**
 - Contribute to open source project :sparkling_heart:
 - Start writing technical blogs, ideally in english
