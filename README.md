@@ -33,7 +33,7 @@ I'm a **Frontend Engineer** based in Taiwan with 4+ years of experience crafting
 const yuuri = {
   background: "French Literature → Software Engineering",
   focus: ["Immersive Web", "Interactive Storytelling", "Real-time Apps"],
-  achievement: "Red Dot Design Award 2022",
+  achievement: "Performed live twice as a bassist",
   languages: {
     code: ["JavaScript", "TypeScript", "HTML", "CSS"],
     human: ["Japanese 🇯🇵", "French 🇫🇷", "English 🇬🇧", "Chinese 🇹🇼"],
