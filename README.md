@@ -1,61 +1,223 @@
 <div id="header" align="center">
-  <div><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/></div>
-  <div><img src="https://komarev.com/ghpvc/?username=syuurio&style=flat-square&label=Thanks+for+Visiting"/></div>
-  <h1>Hi, I'm Yuuri, a detail-oriented Frontend Engineer 👋</h1>
-  <p>A language geek who encountered programming language... and then started her life of coding.</p>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
+
+  <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yuuri+%F0%9F%91%8B;Red+Dot+Award-winning+Frontend+Engineer;Language+Lover+%E2%86%92+Code+Enthusiast;Building+Immersive+Web+Experiences" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=syuurio&style=flat-square&color=blueviolet&label=Profile+Views"/>
 </div>
 
-<div id="badges" align="center">
-  <a style="display:inline-block;" href="https://www.linkedin.com/in/syuurio/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
-  <a style="display:inline-block;" href="https://ccleo.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Resume&style=for-the-badge&color=green&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNDgiIHdpZHRoPSI0OCI+CiAgPHBhdGggZmlsbD0iI2ZmZiIKICAgIGQ9Ik0yNCA0NFExOS44IDQ0IDE2LjE1IDQyLjQyNVExMi41IDQwLjg1IDkuOCAzOC4xNVE3LjEgMzUuNDUgNS41NSAzMS43NzVRNCAyOC4xIDQgMjMuOVE0IDE5LjcgNS41NSAxNi4wNzVRNy4xIDEyLjQ1IDkuOCA5Ljc1UTEyLjUgNy4wNSAxNi4xNSA1LjUyNVExOS44IDQgMjQgNFEyOC4yIDQgMzEuODUgNS41MjVRMzUuNSA3LjA1IDM4LjIgOS43NVE0MC45IDEyLjQ1IDQyLjQ1IDE2LjA3NVE0NCAxOS43IDQ0IDIzLjlRNDQgMjguMSA0Mi40NSAzMS43NzVRNDAuOSAzNS40NSAzOC4yIDM4LjE1UTM1LjUgNDAuODUgMzEuODUgNDIuNDI1UTI4LjIgNDQgMjQgNDRaTTMxLjkgMTYuNUgzOS40UTM3Ljc1IDEzLjA1IDM0Ljg3NSAxMC43NVEzMiA4LjQ1IDI4LjI1IDcuNVEyOS41IDkuMzUgMzAuMzc1IDExLjVRMzEuMjUgMTMuNjUgMzEuOSAxNi41Wk0xOS4yIDE2LjVIMjguOVEyOC4zNSAxMy44NSAyNy4wNSAxMS4zNzVRMjUuNzUgOC45IDI0IDdRMjIuNCA4LjM1IDIxLjMgMTAuNTVRMjAuMiAxMi43NSAxOS4yIDE2LjVaTTcuNiAyOC40NUgxNS41NVExNS40IDI3LjEgMTUuMzc1IDI2LjAyNVExNS4zNSAyNC45NSAxNS4zNSAyMy45UTE1LjM1IDIyLjY1IDE1LjQgMjEuNjc1UTE1LjQ1IDIwLjcgMTUuNiAxOS41SDcuNlE3LjI1IDIwLjcgNy4xMjUgMjEuNjVRNyAyMi42IDcgMjMuOVE3IDI1LjIgNy4xMjUgMjYuMjI1UTcuMjUgMjcuMjUgNy42IDI4LjQ1Wk0xOS43NSA0MC41UTE4LjUgMzguNiAxNy42IDM2LjRRMTYuNyAzNC4yIDE2LjEgMzEuNDVIOC42UTEwLjUgMzUgMTMgMzcuMDI1UTE1LjUgMzkuMDUgMTkuNzUgNDAuNVpNOC42IDE2LjVIMTYuMTVRMTYuNyAxMy44IDE3LjU1IDExLjY3NVExOC40IDkuNTUgMTkuNyA3LjU1UTE1Ljk1IDguNSAxMy4xNSAxMC43NVExMC4zNSAxMyA4LjYgMTYuNVpNMjQgNDEuMVEyNS43NSAzOS4zIDI2LjkyNSAzNi45NzVRMjguMSAzNC42NSAyOC44NSAzMS40NUgxOS4yUTE5LjkgMzQuNDUgMjEuMDc1IDM2Ljg1UTIyLjI1IDM5LjI1IDI0IDQxLjFaTTE4LjY1IDI4LjQ1SDI5LjRRMjkuNiAyNi45IDI5LjY1IDI1LjkyNVEyOS43IDI0Ljk1IDI5LjcgMjMuOVEyOS43IDIyLjkgMjkuNjUgMjEuOTc1UTI5LjYgMjEuMDUgMjkuNCAxOS41SDE4LjY1UTE4LjQ1IDIxLjA1IDE4LjQgMjEuOTc1UTE4LjM1IDIyLjkgMTguMzUgMjMuOVExOC4zNSAyNC45NSAxOC40IDI1LjkyNVExOC40NSAyNi45IDE4LjY1IDI4LjQ1Wk0yOC4zIDQwLjQ1UTMxLjkgMzkuMyAzNC43NzUgMzdRMzcuNjUgMzQuNyAzOS40IDMxLjQ1SDMxLjk1UTMxLjMgMzQuMTUgMzAuNDI1IDM2LjM1UTI5LjU1IDM4LjU1IDI4LjMgNDAuNDVaTTMyLjQgMjguNDVINDAuNFE0MC43NSAyNy4yNSA0MC44NzUgMjYuMjI1UTQxIDI1LjIgNDEgMjMuOVE0MSAyMi42IDQwLjg3NSAyMS42NVE0MC43NSAyMC43IDQwLjQgMTkuNUgzMi40NVEzMi42IDIxLjI1IDMyLjY1IDIyLjE3NVEzMi43IDIzLjEgMzIuNyAyMy45UTMyLjcgMjUgMzIuNjI1IDI1Ljk3NVEzMi41NSAyNi45NSAzMi40IDI4LjQ1WiIgLz4KPC9zdmc+" alt="Website Badge"/>
-  </a>
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syuurio/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.cake.me/me/syuurio)
+  [![Website](https://img.shields.io/badge/Website-4ECDC4?style=for-the-badge&logo=safari&logoColor=white)](https://ywri.dev/)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/syuurio)
+
 </div>
 
-## :woman_technologist: About Me
+<br/>
 
-:wave: I'm Yuuri, and coding is an essential part of my life.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- :computer: Currently working as a Frontend Engineer in Taiwan and seeking international remote opportunities.
-- :mag: Eager to explore new fields in **WEB** development.
-- :hearts: Passionate about problem-solving through coding.
+## ✨ About Me
 
-## :pencil2: My Motto
+I'm a **Frontend Engineer** based in Taiwan with 4+ years of experience crafting interactive and immersive web experiences.
 
+```javascript
+const yuuri = {
+  background: "French Literature → Software Engineering",
+  focus: ["Immersive Web", "Interactive Storytelling", "Real-time Apps"],
+  achievement: "Red Dot Design Award 2022",
+  languages: {
+    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    human: ["Japanese 🇯🇵", "French 🇫🇷", "English 🇬🇧", "Chinese 🇹🇼"]
+  },
+  currentlyLearning: "Full-stack Development",
+  funFact: "Started coding journey after studying French literature"
+};
 ```
-🌟 Stay curious and never stop learning
-🔥 Be ambitious of what you are up to do
-🤝 Take from someone, then give to someone else
-💕 Be thoughtful with people surrounding you
-```
 
-## :rocket: What I'm up to do
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- Renewal my personal website
-- Explore the backend skill to become a **full-stack engineer**
-- Contribute to open source project :sparkling_heart:
-- Start writing technical blogs, ideally in english
-- Earn a **Computer Science** degree
+## 🏆 Achievements
 
-## :zap: Languages and Tools
+<div align="center">
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="30" height="30"/>&nbsp;
-<img src="https://vitejs.dev/logo.svg" width="30" height="30"/></code>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" width="30" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Red_Dot_Design_Award-2022-FF0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IndoaXRlIi8+PC9zdmc+" alt="Red Dot Award"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Employee_of_the_Year-2021-FFD700?style=for-the-badge&logo=star&logoColor=white" alt="Employee of the Year"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Core_Web_Vitals-90+-00C853?style=for-the-badge&logo=pagespeedinsights&logoColor=white" alt="Core Web Vitals"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Dev_Time_Reduction-30%25-2196F3?style=for-the-badge&logo=githubactions&logoColor=white" alt="Dev Time Reduction"/>
 
-## My Stats
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=syuurio&show_icons=true&theme=rose_pine)  
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=syuurio&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 What I Build
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎬 Immersive Web Experiences</h3>
+      <p align="center">
+        Building 360° panoramas and interactive storytelling with <b>Three.js</b>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
+        <br/><br/>
+        <i>Won the Red Dot Design Award 2022 for immersive digital storytelling</i>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Real-time Applications</h3>
+      <p align="center">
+        Live data visualization and chat systems powered by <b>WebSocket</b>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <br/><br/>
+        <i>Built live election results visualization platform</i>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI-Enhanced Interfaces</h3>
+      <p align="center">
+        Face detection, real-time video manipulation, and intelligent UX
+        <br/><br/>
+        <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/face--api.js-4285F4?style=flat-square&logo=javascript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <br/><br/>
+        <i>Created AI-powered video manipulation with real-time face detection</i>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📰 Content Platforms</h3>
+      <p align="center">
+        Headless CMS solutions optimized for performance
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SEO-47A248?style=flat-square&logo=google&logoColor=white"/>
+        <br/><br/>
+        <i>Improved Core Web Vitals from 50 to 90+</i>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend Frameworks
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Interactive & 3D
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### Styling
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### CMS & Backend
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌏 Languages I Speak
+
+<div align="center">
+
+| Code | Human |
+|:----:|:-----:|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Japanese](https://img.shields.io/badge/-Japanese_🇯🇵-Advanced-red?style=flat-square) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![French](https://img.shields.io/badge/-French_🇫🇷-Intermediate-blue?style=flat-square) |
+| ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![English](https://img.shields.io/badge/-English_🇬🇧-Intermediate-darkblue?style=flat-square) |
+| ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Chinese](https://img.shields.io/badge/-Chinese_🇹🇼-Native-darkred?style=flat-square) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syuurio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syuurio&theme=tokyonight&hide_border=true&background=0D1117" width="49%" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syuurio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=syuurio&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syuurio&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Current Focus
+
+- 🌐 Open to **international remote opportunities**
+- 🌱 Exploring **full-stack development**
+- 💖 Contributing to **open source projects**
+- ✏️ Starting to write **technical blogs**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
