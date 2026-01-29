@@ -170,14 +170,14 @@ const yuuri = {
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syuurio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-two-phi-77.vercel.app/api?username=syuurio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="49%" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=syuurio&theme=tokyonight&hide_border=true&background=0D1117" width="49%" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syuurio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats-two-phi-77.vercel.app/api/top-langs/?username=syuurio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="40%" alt="Top Languages"/>
 </div>
 
 <br/>
